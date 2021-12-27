@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background: url(pexels-vladyslav-dushenkovsky-4100130.jpg) #ad4b8d;
+    background-size: 100%;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.reloj{
+    font-family: Impact;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    letter-spacing: 0.1em;
+    font-size: 100px;
+}
+
