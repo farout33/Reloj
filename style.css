@@ -8,6 +8,8 @@ body {
     height: 100%;
     background: #ad4b8d;
     background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 p{
     margin: 0;
